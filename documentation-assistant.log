@@ -1,0 +1,17 @@
+1740124046834:q
+1740124057644:q --question
+1740124081937:q --question What is the documents about?
+1740124255204:q --question "What are the documents about?"
+1740124348200:q --question "What is spring boot?"
+1740160995062:help
+1740161010422:q --question "What is spring boot?"
+1740161087207:quit
+1740161148106:exit
+1740163557404:help
+1740163572914:q --question "what is spring web?"
+1740163733798:q --question "can you give me an example of a Rest Controller?"
+1740163805797:exit
+1740163904824:q --question "can you give me an example of a Rest Controller?"
+1740164164424:clear
+1740164179393:q --question "what is spring web?"
+1740164441752:exit
